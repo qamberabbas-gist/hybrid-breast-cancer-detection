@@ -9,9 +9,10 @@ This repository contains the implementation of deep learning and hybrid CNN mode
 - DenseNet121
 - ResNet50
 - ResNet50V2
-- InceptionV3
 - Xception
-- Hybrid VGG16-DenseNet121
+- InceptionV3
+- InceptionV3-MobileNetV2
+- Hybrid VGG16-DenseNet121 (proposed)
 
 ## Dataset
 The BUSI breast ultrasound dataset used in this study is publicly available at:
